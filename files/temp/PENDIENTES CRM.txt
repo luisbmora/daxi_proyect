@@ -1,0 +1,18 @@
+Google Domanins
+Migrar CRM al nuevo host
+Recibir WebHook de Grupodaxi
+
+
+-Plantillas para enviar correos perzonalizados
+-No puede enviar correos
+-Agenda no da avisos ni hace nada 
+-Analitica de nuestros contactos cuando y de donde entran 
+	*Facebook
+	*Mukta
+	*GrupoDaxi
+	*Otros
+
+-Seguimiento a prospectos 
+	si se le hablo y no se hablo
+
+-"Modulo Cotizaciones"

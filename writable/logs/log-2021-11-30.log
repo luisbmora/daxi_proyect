@@ -1,0 +1,2117 @@
+INFO - 2021-11-30 13:55:19 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:19 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:21 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:21 --> CSRF token verified.
+INFO - 2021-11-30 13:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:22 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:22 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:23 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:23 --> CSRF token verified.
+INFO - 2021-11-30 13:55:23 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:23 --> CSRF token verified.
+INFO - 2021-11-30 13:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:25 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:26 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:26 --> CSRF token verified.
+INFO - 2021-11-30 13:55:26 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:26 --> CSRF token verified.
+INFO - 2021-11-30 13:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:26 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:26 --> CSRF token verified.
+INFO - 2021-11-30 13:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:31 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:31 --> CSRF token verified.
+INFO - 2021-11-30 13:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:36 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:36 --> CSRF token verified.
+INFO - 2021-11-30 13:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:42 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:42 --> CSRF token verified.
+INFO - 2021-11-30 13:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:47 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:47 --> CSRF token verified.
+INFO - 2021-11-30 13:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:52 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:52 --> CSRF token verified.
+INFO - 2021-11-30 13:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:55:57 --> CSRF cookie sent.
+INFO - 2021-11-30 13:55:57 --> CSRF token verified.
+INFO - 2021-11-30 13:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:02 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:02 --> CSRF token verified.
+INFO - 2021-11-30 13:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:07 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:07 --> CSRF token verified.
+INFO - 2021-11-30 13:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:13 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:13 --> CSRF token verified.
+INFO - 2021-11-30 13:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:18 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:18 --> CSRF token verified.
+INFO - 2021-11-30 13:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:25 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:25 --> CSRF token verified.
+INFO - 2021-11-30 13:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:28 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:28 --> CSRF token verified.
+INFO - 2021-11-30 13:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:30 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:30 --> CSRF token verified.
+INFO - 2021-11-30 13:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:35 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:35 --> CSRF token verified.
+INFO - 2021-11-30 13:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:41 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:41 --> CSRF token verified.
+INFO - 2021-11-30 13:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:46 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:46 --> CSRF token verified.
+INFO - 2021-11-30 13:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:47 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:49 --> CSRF token verified.
+INFO - 2021-11-30 13:56:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:49 --> CSRF token verified.
+INFO - 2021-11-30 13:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:49 --> CSRF token verified.
+INFO - 2021-11-30 13:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:52 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:52 --> CSRF token verified.
+INFO - 2021-11-30 13:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:54 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:54 --> CSRF token verified.
+INFO - 2021-11-30 13:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:56:59 --> CSRF cookie sent.
+INFO - 2021-11-30 13:56:59 --> CSRF token verified.
+INFO - 2021-11-30 13:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:04 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:04 --> CSRF token verified.
+INFO - 2021-11-30 13:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:10 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:10 --> CSRF token verified.
+INFO - 2021-11-30 13:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:15 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:15 --> CSRF token verified.
+INFO - 2021-11-30 13:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:20 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:20 --> CSRF token verified.
+INFO - 2021-11-30 13:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:25 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:25 --> CSRF token verified.
+INFO - 2021-11-30 13:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:30 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:30 --> CSRF token verified.
+INFO - 2021-11-30 13:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:35 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:35 --> CSRF token verified.
+INFO - 2021-11-30 13:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:40 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:40 --> CSRF token verified.
+INFO - 2021-11-30 13:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:46 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:46 --> CSRF token verified.
+INFO - 2021-11-30 13:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:49 --> CSRF token verified.
+INFO - 2021-11-30 13:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:51 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:51 --> CSRF token verified.
+INFO - 2021-11-30 13:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:57:56 --> CSRF cookie sent.
+INFO - 2021-11-30 13:57:56 --> CSRF token verified.
+INFO - 2021-11-30 13:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:01 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:01 --> CSRF token verified.
+INFO - 2021-11-30 13:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:06 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:06 --> CSRF token verified.
+INFO - 2021-11-30 13:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:11 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:11 --> CSRF token verified.
+INFO - 2021-11-30 13:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:16 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:16 --> CSRF token verified.
+INFO - 2021-11-30 13:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:22 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:22 --> CSRF token verified.
+INFO - 2021-11-30 13:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:27 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:27 --> CSRF token verified.
+INFO - 2021-11-30 13:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:32 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:32 --> CSRF token verified.
+INFO - 2021-11-30 13:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:37 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:37 --> CSRF token verified.
+INFO - 2021-11-30 13:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:42 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:42 --> CSRF token verified.
+INFO - 2021-11-30 13:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:47 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:47 --> CSRF token verified.
+INFO - 2021-11-30 13:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:49 --> CSRF token verified.
+INFO - 2021-11-30 13:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:52 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:52 --> CSRF token verified.
+INFO - 2021-11-30 13:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:58:58 --> CSRF cookie sent.
+INFO - 2021-11-30 13:58:58 --> CSRF token verified.
+INFO - 2021-11-30 13:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:03 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:03 --> CSRF token verified.
+INFO - 2021-11-30 13:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:08 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:08 --> CSRF token verified.
+INFO - 2021-11-30 13:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:13 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:13 --> CSRF token verified.
+INFO - 2021-11-30 13:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:18 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:18 --> CSRF token verified.
+INFO - 2021-11-30 13:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:23 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:23 --> CSRF token verified.
+INFO - 2021-11-30 13:59:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:28 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:28 --> CSRF token verified.
+INFO - 2021-11-30 13:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:34 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:34 --> CSRF token verified.
+INFO - 2021-11-30 13:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:39 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:39 --> CSRF token verified.
+INFO - 2021-11-30 13:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:44 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:44 --> CSRF token verified.
+INFO - 2021-11-30 13:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:49 --> CSRF token verified.
+INFO - 2021-11-30 13:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:49 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:49 --> CSRF token verified.
+INFO - 2021-11-30 13:59:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:54 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:54 --> CSRF token verified.
+INFO - 2021-11-30 13:59:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 13:59:59 --> CSRF cookie sent.
+INFO - 2021-11-30 13:59:59 --> CSRF token verified.
+INFO - 2021-11-30 13:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:04 --> CSRF token verified.
+INFO - 2021-11-30 14:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:10 --> CSRF token verified.
+INFO - 2021-11-30 14:00:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:12 --> CSRF token verified.
+INFO - 2021-11-30 14:00:12 --> CSRF token verified.
+INFO - 2021-11-30 14:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:12 --> CSRF token verified.
+INFO - 2021-11-30 14:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:13 --> CSRF token verified.
+INFO - 2021-11-30 14:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:17 --> CSRF token verified.
+INFO - 2021-11-30 14:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:22 --> CSRF token verified.
+INFO - 2021-11-30 14:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:28 --> CSRF token verified.
+INFO - 2021-11-30 14:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:33 --> CSRF token verified.
+INFO - 2021-11-30 14:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:38 --> CSRF token verified.
+INFO - 2021-11-30 14:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:43 --> CSRF token verified.
+INFO - 2021-11-30 14:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:48 --> CSRF token verified.
+INFO - 2021-11-30 14:00:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:54 --> CSRF token verified.
+INFO - 2021-11-30 14:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:00:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:00:59 --> CSRF token verified.
+INFO - 2021-11-30 14:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:04 --> CSRF token verified.
+INFO - 2021-11-30 14:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:09 --> CSRF token verified.
+INFO - 2021-11-30 14:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:12 --> CSRF token verified.
+INFO - 2021-11-30 14:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:14 --> CSRF token verified.
+INFO - 2021-11-30 14:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:19 --> CSRF token verified.
+INFO - 2021-11-30 14:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:24 --> CSRF token verified.
+INFO - 2021-11-30 14:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:29 --> CSRF token verified.
+INFO - 2021-11-30 14:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:35 --> CSRF token verified.
+INFO - 2021-11-30 14:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:40 --> CSRF token verified.
+INFO - 2021-11-30 14:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:41 --> CSRF token verified.
+INFO - 2021-11-30 14:01:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:45 --> CSRF token verified.
+INFO - 2021-11-30 14:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:50 --> CSRF token verified.
+INFO - 2021-11-30 14:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:01:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:01:55 --> CSRF token verified.
+INFO - 2021-11-30 14:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:00 --> CSRF token verified.
+INFO - 2021-11-30 14:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:05 --> CSRF token verified.
+INFO - 2021-11-30 14:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:11 --> CSRF token verified.
+INFO - 2021-11-30 14:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:12 --> CSRF token verified.
+INFO - 2021-11-30 14:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:16 --> CSRF token verified.
+INFO - 2021-11-30 14:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:18 --> CSRF token verified.
+INFO - 2021-11-30 14:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:21 --> CSRF token verified.
+INFO - 2021-11-30 14:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:25 --> CSRF token verified.
+INFO - 2021-11-30 14:02:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:25 --> CSRF token verified.
+INFO - 2021-11-30 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:25 --> CSRF token verified.
+INFO - 2021-11-30 14:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:31 --> CSRF token verified.
+INFO - 2021-11-30 14:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:32 --> CSRF token verified.
+INFO - 2021-11-30 14:02:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:32 --> CSRF token verified.
+INFO - 2021-11-30 14:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:32 --> CSRF token verified.
+INFO - 2021-11-30 14:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:37 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:37 --> CSRF token verified.
+INFO - 2021-11-30 14:02:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:42 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:42 --> CSRF token verified.
+INFO - 2021-11-30 14:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:48 --> CSRF token verified.
+INFO - 2021-11-30 14:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:53 --> CSRF token verified.
+INFO - 2021-11-30 14:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:02:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:02:58 --> CSRF token verified.
+INFO - 2021-11-30 14:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:03 --> CSRF token verified.
+INFO - 2021-11-30 14:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:08 --> CSRF token verified.
+INFO - 2021-11-30 14:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:13 --> CSRF token verified.
+INFO - 2021-11-30 14:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:18 --> CSRF token verified.
+INFO - 2021-11-30 14:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:20 --> CSRF token verified.
+INFO - 2021-11-30 14:03:20 --> CSRF token verified.
+INFO - 2021-11-30 14:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:20 --> CSRF token verified.
+INFO - 2021-11-30 14:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:25 --> CSRF token verified.
+INFO - 2021-11-30 14:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:41 --> CSRF token verified.
+INFO - 2021-11-30 14:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:46 --> CSRF token verified.
+INFO - 2021-11-30 14:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:51 --> CSRF token verified.
+INFO - 2021-11-30 14:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:03:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:03:56 --> CSRF token verified.
+INFO - 2021-11-30 14:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:01 --> CSRF token verified.
+INFO - 2021-11-30 14:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:06 --> CSRF token verified.
+INFO - 2021-11-30 14:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:11 --> CSRF token verified.
+INFO - 2021-11-30 14:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:16 --> CSRF token verified.
+INFO - 2021-11-30 14:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:20 --> CSRF token verified.
+INFO - 2021-11-30 14:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:22 --> CSRF token verified.
+INFO - 2021-11-30 14:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:27 --> CSRF token verified.
+INFO - 2021-11-30 14:04:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:27 --> CSRF token verified.
+INFO - 2021-11-30 14:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:27 --> CSRF token verified.
+INFO - 2021-11-30 14:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:32 --> CSRF token verified.
+INFO - 2021-11-30 14:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:52 --> CSRF token verified.
+INFO - 2021-11-30 14:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:04:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:04:57 --> CSRF token verified.
+INFO - 2021-11-30 14:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:02 --> CSRF token verified.
+INFO - 2021-11-30 14:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:07 --> CSRF token verified.
+INFO - 2021-11-30 14:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:13 --> CSRF token verified.
+INFO - 2021-11-30 14:05:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:13 --> CSRF token verified.
+INFO - 2021-11-30 14:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:13 --> CSRF token verified.
+INFO - 2021-11-30 14:05:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:18 --> CSRF token verified.
+INFO - 2021-11-30 14:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:43 --> CSRF token verified.
+INFO - 2021-11-30 14:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:48 --> CSRF token verified.
+INFO - 2021-11-30 14:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:53 --> CSRF token verified.
+INFO - 2021-11-30 14:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:05:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:05:59 --> CSRF token verified.
+INFO - 2021-11-30 14:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:04 --> CSRF token verified.
+INFO - 2021-11-30 14:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:09 --> CSRF token verified.
+INFO - 2021-11-30 14:06:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:11 --> CSRF token verified.
+INFO - 2021-11-30 14:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:13 --> CSRF token verified.
+INFO - 2021-11-30 14:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:14 --> CSRF token verified.
+INFO - 2021-11-30 14:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:19 --> CSRF token verified.
+INFO - 2021-11-30 14:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:25 --> CSRF token verified.
+INFO - 2021-11-30 14:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:31 --> CSRF token verified.
+INFO - 2021-11-30 14:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:36 --> CSRF token verified.
+INFO - 2021-11-30 14:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:41 --> CSRF token verified.
+INFO - 2021-11-30 14:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:46 --> CSRF token verified.
+INFO - 2021-11-30 14:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:52 --> CSRF token verified.
+INFO - 2021-11-30 14:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:06:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:06:57 --> CSRF token verified.
+INFO - 2021-11-30 14:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:03 --> CSRF token verified.
+INFO - 2021-11-30 14:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:08 --> CSRF token verified.
+INFO - 2021-11-30 14:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:13 --> CSRF token verified.
+INFO - 2021-11-30 14:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:14 --> CSRF token verified.
+INFO - 2021-11-30 14:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:18 --> CSRF token verified.
+INFO - 2021-11-30 14:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:24 --> CSRF token verified.
+INFO - 2021-11-30 14:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:29 --> CSRF token verified.
+INFO - 2021-11-30 14:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:34 --> CSRF token verified.
+INFO - 2021-11-30 14:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:39 --> CSRF token verified.
+INFO - 2021-11-30 14:07:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:45 --> CSRF token verified.
+INFO - 2021-11-30 14:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:50 --> CSRF token verified.
+INFO - 2021-11-30 14:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:07:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:07:55 --> CSRF token verified.
+INFO - 2021-11-30 14:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:00 --> CSRF token verified.
+INFO - 2021-11-30 14:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:05 --> CSRF token verified.
+INFO - 2021-11-30 14:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:10 --> CSRF token verified.
+INFO - 2021-11-30 14:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:14 --> CSRF token verified.
+INFO - 2021-11-30 14:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:15 --> CSRF token verified.
+INFO - 2021-11-30 14:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:21 --> CSRF token verified.
+INFO - 2021-11-30 14:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:26 --> CSRF token verified.
+INFO - 2021-11-30 14:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:31 --> CSRF token verified.
+INFO - 2021-11-30 14:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:36 --> CSRF token verified.
+INFO - 2021-11-30 14:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:41 --> CSRF token verified.
+INFO - 2021-11-30 14:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:46 --> CSRF token verified.
+INFO - 2021-11-30 14:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:51 --> CSRF token verified.
+INFO - 2021-11-30 14:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:08:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:08:57 --> CSRF token verified.
+INFO - 2021-11-30 14:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:02 --> CSRF token verified.
+INFO - 2021-11-30 14:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:07 --> CSRF token verified.
+INFO - 2021-11-30 14:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:12 --> CSRF token verified.
+INFO - 2021-11-30 14:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:15 --> CSRF token verified.
+INFO - 2021-11-30 14:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:17 --> CSRF token verified.
+INFO - 2021-11-30 14:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:22 --> CSRF token verified.
+INFO - 2021-11-30 14:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:28 --> CSRF token verified.
+INFO - 2021-11-30 14:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:33 --> CSRF token verified.
+INFO - 2021-11-30 14:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:38 --> CSRF token verified.
+INFO - 2021-11-30 14:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:43 --> CSRF token verified.
+INFO - 2021-11-30 14:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:48 --> CSRF token verified.
+INFO - 2021-11-30 14:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:53 --> CSRF token verified.
+INFO - 2021-11-30 14:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:09:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:09:58 --> CSRF token verified.
+INFO - 2021-11-30 14:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:04 --> CSRF token verified.
+INFO - 2021-11-30 14:10:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:09 --> CSRF token verified.
+INFO - 2021-11-30 14:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:14 --> CSRF token verified.
+INFO - 2021-11-30 14:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:15 --> CSRF token verified.
+INFO - 2021-11-30 14:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:19 --> CSRF token verified.
+INFO - 2021-11-30 14:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:24 --> CSRF token verified.
+INFO - 2021-11-30 14:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:29 --> CSRF token verified.
+INFO - 2021-11-30 14:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:34 --> CSRF token verified.
+INFO - 2021-11-30 14:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:40 --> CSRF token verified.
+INFO - 2021-11-30 14:10:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:45 --> CSRF token verified.
+INFO - 2021-11-30 14:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:50 --> CSRF token verified.
+INFO - 2021-11-30 14:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:10:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:10:55 --> CSRF token verified.
+INFO - 2021-11-30 14:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:00 --> CSRF token verified.
+INFO - 2021-11-30 14:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:05 --> CSRF token verified.
+INFO - 2021-11-30 14:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:11 --> CSRF token verified.
+INFO - 2021-11-30 14:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:15 --> CSRF token verified.
+INFO - 2021-11-30 14:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:16 --> CSRF token verified.
+INFO - 2021-11-30 14:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:21 --> CSRF token verified.
+INFO - 2021-11-30 14:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:26 --> CSRF token verified.
+INFO - 2021-11-30 14:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:31 --> CSRF token verified.
+INFO - 2021-11-30 14:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:37 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:37 --> CSRF token verified.
+INFO - 2021-11-30 14:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:42 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:42 --> CSRF token verified.
+INFO - 2021-11-30 14:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:47 --> CSRF token verified.
+INFO - 2021-11-30 14:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:52 --> CSRF token verified.
+INFO - 2021-11-30 14:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:57 --> CSRF token verified.
+INFO - 2021-11-30 14:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:59 --> CSRF token verified.
+INFO - 2021-11-30 14:11:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:59 --> CSRF token verified.
+INFO - 2021-11-30 14:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:11:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:11:59 --> CSRF token verified.
+INFO - 2021-11-30 14:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2021-11-30 14:12:00 --> Argument 2 passed to anchor() must be of the type string, null given, called in C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php on line 773
+#0 C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php(773): anchor('team_members/vi...', NULL, Array)
+#1 C:\wamp64\www\yocontigo\grupodaxi\app\Views\leads\kanban\kanban_view.php(19): get_team_member_profile_link('12', NULL)
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(230): include('C:\\wamp64\\www\\y...')
+#3 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\yocontigo\grupodaxi\system\Common.php(1271): CodeIgniter\View\View->render('leads/kanban/ka...', Array, true)
+#5 C:\wamp64\www\yocontigo\grupodaxi\app\Libraries\Template.php(38): view('leads/kanban/ka...', Array)
+#6 C:\wamp64\www\yocontigo\grupodaxi\app\Controllers\Leads.php(974): App\Libraries\Template->view('leads/kanban/ka...', Array)
+#7 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(928): App\Controllers\Leads->all_leads_kanban_data()
+#8 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+#9 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2021-11-30 14:12:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:04 --> CSRF token verified.
+INFO - 2021-11-30 14:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:05 --> CSRF token verified.
+INFO - 2021-11-30 14:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2021-11-30 14:12:05 --> Argument 2 passed to anchor() must be of the type string, null given, called in C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php on line 773
+#0 C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php(773): anchor('team_members/vi...', NULL, Array)
+#1 C:\wamp64\www\yocontigo\grupodaxi\app\Views\leads\kanban\kanban_view.php(19): get_team_member_profile_link('12', NULL)
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(230): include('C:\\wamp64\\www\\y...')
+#3 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\yocontigo\grupodaxi\system\Common.php(1271): CodeIgniter\View\View->render('leads/kanban/ka...', Array, true)
+#5 C:\wamp64\www\yocontigo\grupodaxi\app\Libraries\Template.php(38): view('leads/kanban/ka...', Array)
+#6 C:\wamp64\www\yocontigo\grupodaxi\app\Controllers\Leads.php(974): App\Libraries\Template->view('leads/kanban/ka...', Array)
+#7 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(928): App\Controllers\Leads->all_leads_kanban_data()
+#8 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+#9 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2021-11-30 14:12:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:07 --> CSRF token verified.
+INFO - 2021-11-30 14:12:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:07 --> CSRF token verified.
+INFO - 2021-11-30 14:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:07 --> CSRF token verified.
+INFO - 2021-11-30 14:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:12 --> CSRF token verified.
+INFO - 2021-11-30 14:12:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:27 --> CSRF token verified.
+INFO - 2021-11-30 14:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:32 --> CSRF token verified.
+INFO - 2021-11-30 14:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:38 --> CSRF token verified.
+INFO - 2021-11-30 14:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:43 --> CSRF token verified.
+INFO - 2021-11-30 14:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:48 --> CSRF token verified.
+INFO - 2021-11-30 14:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:53 --> CSRF token verified.
+INFO - 2021-11-30 14:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:12:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:12:58 --> CSRF token verified.
+INFO - 2021-11-30 14:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:03 --> CSRF token verified.
+INFO - 2021-11-30 14:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:07 --> CSRF token verified.
+INFO - 2021-11-30 14:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:08 --> CSRF token verified.
+INFO - 2021-11-30 14:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:14 --> CSRF token verified.
+INFO - 2021-11-30 14:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:19 --> CSRF token verified.
+INFO - 2021-11-30 14:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:24 --> CSRF token verified.
+INFO - 2021-11-30 14:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:29 --> CSRF token verified.
+INFO - 2021-11-30 14:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:34 --> CSRF token verified.
+INFO - 2021-11-30 14:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:39 --> CSRF token verified.
+INFO - 2021-11-30 14:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:44 --> CSRF token verified.
+INFO - 2021-11-30 14:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:50 --> CSRF token verified.
+INFO - 2021-11-30 14:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:13:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:13:55 --> CSRF token verified.
+INFO - 2021-11-30 14:13:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:00 --> CSRF token verified.
+INFO - 2021-11-30 14:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:05 --> CSRF token verified.
+INFO - 2021-11-30 14:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:07 --> CSRF token verified.
+INFO - 2021-11-30 14:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:10 --> CSRF token verified.
+INFO - 2021-11-30 14:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:15 --> CSRF token verified.
+INFO - 2021-11-30 14:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:20 --> CSRF token verified.
+INFO - 2021-11-30 14:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:26 --> CSRF token verified.
+INFO - 2021-11-30 14:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:31 --> CSRF token verified.
+INFO - 2021-11-30 14:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:36 --> CSRF token verified.
+INFO - 2021-11-30 14:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:41 --> CSRF token verified.
+INFO - 2021-11-30 14:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:47 --> CSRF token verified.
+INFO - 2021-11-30 14:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:52 --> CSRF token verified.
+INFO - 2021-11-30 14:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:14:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:14:57 --> CSRF token verified.
+INFO - 2021-11-30 14:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:02 --> CSRF token verified.
+INFO - 2021-11-30 14:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:07 --> CSRF token verified.
+INFO - 2021-11-30 14:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:08 --> CSRF token verified.
+INFO - 2021-11-30 14:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:12 --> CSRF token verified.
+INFO - 2021-11-30 14:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:18 --> CSRF token verified.
+INFO - 2021-11-30 14:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:23 --> CSRF token verified.
+INFO - 2021-11-30 14:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:28 --> CSRF token verified.
+INFO - 2021-11-30 14:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:33 --> CSRF token verified.
+INFO - 2021-11-30 14:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:38 --> CSRF token verified.
+INFO - 2021-11-30 14:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:43 --> CSRF token verified.
+INFO - 2021-11-30 14:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:49 --> CSRF token verified.
+INFO - 2021-11-30 14:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:54 --> CSRF token verified.
+INFO - 2021-11-30 14:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:15:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:15:59 --> CSRF token verified.
+INFO - 2021-11-30 14:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:04 --> CSRF token verified.
+INFO - 2021-11-30 14:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:08 --> CSRF token verified.
+INFO - 2021-11-30 14:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:09 --> CSRF token verified.
+INFO - 2021-11-30 14:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:14 --> CSRF token verified.
+INFO - 2021-11-30 14:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:19 --> CSRF token verified.
+INFO - 2021-11-30 14:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:25 --> CSRF token verified.
+INFO - 2021-11-30 14:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:30 --> CSRF token verified.
+INFO - 2021-11-30 14:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:35 --> CSRF token verified.
+INFO - 2021-11-30 14:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:40 --> CSRF token verified.
+INFO - 2021-11-30 14:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:45 --> CSRF token verified.
+INFO - 2021-11-30 14:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:50 --> CSRF token verified.
+INFO - 2021-11-30 14:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:16:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:16:55 --> CSRF token verified.
+INFO - 2021-11-30 14:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:01 --> CSRF token verified.
+INFO - 2021-11-30 14:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:06 --> CSRF token verified.
+INFO - 2021-11-30 14:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:08 --> CSRF token verified.
+INFO - 2021-11-30 14:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:11 --> CSRF token verified.
+INFO - 2021-11-30 14:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:16 --> CSRF token verified.
+INFO - 2021-11-30 14:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:21 --> CSRF token verified.
+INFO - 2021-11-30 14:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:26 --> CSRF token verified.
+INFO - 2021-11-30 14:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:31 --> CSRF token verified.
+INFO - 2021-11-30 14:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:37 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:37 --> CSRF token verified.
+INFO - 2021-11-30 14:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:42 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:42 --> CSRF token verified.
+INFO - 2021-11-30 14:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:47 --> CSRF token verified.
+INFO - 2021-11-30 14:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:52 --> CSRF token verified.
+INFO - 2021-11-30 14:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:17:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:17:57 --> CSRF token verified.
+INFO - 2021-11-30 14:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:02 --> CSRF token verified.
+INFO - 2021-11-30 14:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:08 --> CSRF token verified.
+INFO - 2021-11-30 14:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:08 --> CSRF token verified.
+INFO - 2021-11-30 14:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:13 --> CSRF token verified.
+INFO - 2021-11-30 14:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:18 --> CSRF token verified.
+INFO - 2021-11-30 14:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:23 --> CSRF token verified.
+INFO - 2021-11-30 14:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:28 --> CSRF token verified.
+INFO - 2021-11-30 14:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:33 --> CSRF token verified.
+INFO - 2021-11-30 14:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:38 --> CSRF token verified.
+INFO - 2021-11-30 14:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:44 --> CSRF token verified.
+INFO - 2021-11-30 14:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:49 --> CSRF token verified.
+INFO - 2021-11-30 14:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:54 --> CSRF token verified.
+INFO - 2021-11-30 14:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:18:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:18:59 --> CSRF token verified.
+INFO - 2021-11-30 14:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:02 --> CSRF token verified.
+INFO - 2021-11-30 14:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:02 --> CSRF token verified.
+INFO - 2021-11-30 14:19:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:02 --> CSRF token verified.
+INFO - 2021-11-30 14:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2021-11-30 14:19:03 --> Argument 2 passed to anchor() must be of the type string, null given, called in C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php on line 773
+#0 C:\wamp64\www\yocontigo\grupodaxi\app\Helpers\general_helper.php(773): anchor('team_members/vi...', NULL, Array)
+#1 C:\wamp64\www\yocontigo\grupodaxi\app\Views\leads\kanban\kanban_view.php(19): get_team_member_profile_link('12', NULL)
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(230): include('C:\\wamp64\\www\\y...')
+#3 C:\wamp64\www\yocontigo\grupodaxi\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\wamp64\www\yocontigo\grupodaxi\system\Common.php(1271): CodeIgniter\View\View->render('leads/kanban/ka...', Array, true)
+#5 C:\wamp64\www\yocontigo\grupodaxi\app\Libraries\Template.php(38): view('leads/kanban/ka...', Array)
+#6 C:\wamp64\www\yocontigo\grupodaxi\app\Controllers\Leads.php(974): App\Libraries\Template->view('leads/kanban/ka...', Array)
+#7 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(928): App\Controllers\Leads->all_leads_kanban_data()
+#8 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+#9 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#11 {main}
+INFO - 2021-11-30 14:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:06 --> CSRF token verified.
+INFO - 2021-11-30 14:19:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:06 --> CSRF token verified.
+INFO - 2021-11-30 14:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:07 --> CSRF token verified.
+INFO - 2021-11-30 14:19:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:12 --> CSRF token verified.
+INFO - 2021-11-30 14:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:27 --> CSRF token verified.
+INFO - 2021-11-30 14:19:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:32 --> CSRF token verified.
+INFO - 2021-11-30 14:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:37 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:37 --> CSRF token verified.
+INFO - 2021-11-30 14:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:43 --> CSRF token verified.
+INFO - 2021-11-30 14:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:48 --> CSRF token verified.
+INFO - 2021-11-30 14:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:53 --> CSRF token verified.
+INFO - 2021-11-30 14:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:19:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:19:58 --> CSRF token verified.
+INFO - 2021-11-30 14:19:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:03 --> CSRF token verified.
+INFO - 2021-11-30 14:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:07 --> CSRF token verified.
+INFO - 2021-11-30 14:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:08 --> CSRF token verified.
+INFO - 2021-11-30 14:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:14 --> CSRF token verified.
+INFO - 2021-11-30 14:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:19 --> CSRF token verified.
+INFO - 2021-11-30 14:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:24 --> CSRF token verified.
+INFO - 2021-11-30 14:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:29 --> CSRF token verified.
+INFO - 2021-11-30 14:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:34 --> CSRF token verified.
+INFO - 2021-11-30 14:20:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:39 --> CSRF token verified.
+INFO - 2021-11-30 14:20:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:45 --> CSRF token verified.
+INFO - 2021-11-30 14:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:50 --> CSRF token verified.
+INFO - 2021-11-30 14:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:20:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:20:55 --> CSRF token verified.
+INFO - 2021-11-30 14:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:00 --> CSRF token verified.
+INFO - 2021-11-30 14:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:05 --> CSRF token verified.
+INFO - 2021-11-30 14:21:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:07 --> CSRF token verified.
+INFO - 2021-11-30 14:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:10 --> CSRF token verified.
+INFO - 2021-11-30 14:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:15 --> CSRF token verified.
+INFO - 2021-11-30 14:21:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:21 --> CSRF token verified.
+INFO - 2021-11-30 14:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:26 --> CSRF token verified.
+INFO - 2021-11-30 14:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:31 --> CSRF token verified.
+INFO - 2021-11-30 14:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:36 --> CSRF token verified.
+INFO - 2021-11-30 14:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:41 --> CSRF token verified.
+INFO - 2021-11-30 14:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:46 --> CSRF token verified.
+INFO - 2021-11-30 14:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:51 --> CSRF token verified.
+INFO - 2021-11-30 14:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:21:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:21:57 --> CSRF token verified.
+INFO - 2021-11-30 14:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:02 --> CSRF token verified.
+INFO - 2021-11-30 14:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:07 --> CSRF token verified.
+INFO - 2021-11-30 14:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:08 --> CSRF token verified.
+INFO - 2021-11-30 14:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:12 --> CSRF token verified.
+INFO - 2021-11-30 14:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:17 --> CSRF token verified.
+INFO - 2021-11-30 14:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:22 --> CSRF token verified.
+INFO - 2021-11-30 14:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:27 --> CSRF token verified.
+INFO - 2021-11-30 14:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:33 --> CSRF token verified.
+INFO - 2021-11-30 14:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:38 --> CSRF token verified.
+INFO - 2021-11-30 14:22:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:43 --> CSRF token verified.
+INFO - 2021-11-30 14:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:48 --> CSRF token verified.
+INFO - 2021-11-30 14:22:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:53 --> CSRF token verified.
+INFO - 2021-11-30 14:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:22:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:22:58 --> CSRF token verified.
+INFO - 2021-11-30 14:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:04 --> CSRF token verified.
+INFO - 2021-11-30 14:23:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:08 --> CSRF token verified.
+INFO - 2021-11-30 14:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:09 --> CSRF token verified.
+INFO - 2021-11-30 14:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:14 --> CSRF token verified.
+INFO - 2021-11-30 14:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:19 --> CSRF token verified.
+INFO - 2021-11-30 14:23:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:25 --> CSRF token verified.
+INFO - 2021-11-30 14:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:30 --> CSRF token verified.
+INFO - 2021-11-30 14:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:35 --> CSRF token verified.
+INFO - 2021-11-30 14:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:40 --> CSRF token verified.
+INFO - 2021-11-30 14:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:45 --> CSRF token verified.
+INFO - 2021-11-30 14:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:50 --> CSRF token verified.
+INFO - 2021-11-30 14:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:23:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:23:56 --> CSRF token verified.
+INFO - 2021-11-30 14:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:01 --> CSRF token verified.
+INFO - 2021-11-30 14:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:06 --> CSRF token verified.
+INFO - 2021-11-30 14:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:08 --> CSRF token verified.
+INFO - 2021-11-30 14:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:11 --> CSRF token verified.
+INFO - 2021-11-30 14:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:12 --> CSRF token verified.
+INFO - 2021-11-30 14:24:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:12 --> CSRF token verified.
+INFO - 2021-11-30 14:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:12 --> CSRF token verified.
+INFO - 2021-11-30 14:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:17 --> CSRF token verified.
+INFO - 2021-11-30 14:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:18 --> CSRF token verified.
+INFO - 2021-11-30 14:24:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:18 --> CSRF token verified.
+INFO - 2021-11-30 14:24:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:19 --> CSRF token verified.
+INFO - 2021-11-30 14:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:24 --> CSRF token verified.
+INFO - 2021-11-30 14:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:35 --> CSRF token verified.
+INFO - 2021-11-30 14:24:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:35 --> CSRF token verified.
+INFO - 2021-11-30 14:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:36 --> CSRF token verified.
+INFO - 2021-11-30 14:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:40 --> CSRF token verified.
+INFO - 2021-11-30 14:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:24:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:24:56 --> CSRF token verified.
+INFO - 2021-11-30 14:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:01 --> CSRF token verified.
+INFO - 2021-11-30 14:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:06 --> CSRF token verified.
+INFO - 2021-11-30 14:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:11 --> CSRF token verified.
+INFO - 2021-11-30 14:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:16 --> CSRF token verified.
+INFO - 2021-11-30 14:25:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:21 --> CSRF token verified.
+INFO - 2021-11-30 14:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:27 --> CSRF token verified.
+INFO - 2021-11-30 14:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:31 --> CSRF token verified.
+INFO - 2021-11-30 14:25:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:31 --> CSRF token verified.
+INFO - 2021-11-30 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:31 --> CSRF token verified.
+INFO - 2021-11-30 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:36 --> CSRF token verified.
+INFO - 2021-11-30 14:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:41 --> CSRF token verified.
+INFO - 2021-11-30 14:25:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:47 --> CSRF token verified.
+INFO - 2021-11-30 14:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:52 --> CSRF token verified.
+INFO - 2021-11-30 14:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:25:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:25:57 --> CSRF token verified.
+INFO - 2021-11-30 14:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:02 --> CSRF token verified.
+INFO - 2021-11-30 14:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:07 --> CSRF token verified.
+INFO - 2021-11-30 14:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:12 --> CSRF token verified.
+INFO - 2021-11-30 14:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:18 --> CSRF token verified.
+INFO - 2021-11-30 14:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:23 --> CSRF token verified.
+INFO - 2021-11-30 14:26:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:28 --> CSRF token verified.
+INFO - 2021-11-30 14:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:29 --> CSRF token verified.
+INFO - 2021-11-30 14:26:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:29 --> CSRF token verified.
+INFO - 2021-11-30 14:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:29 --> CSRF token verified.
+INFO - 2021-11-30 14:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:34 --> CSRF token verified.
+INFO - 2021-11-30 14:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:48 --> CSRF token verified.
+INFO - 2021-11-30 14:26:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:49 --> CSRF token verified.
+INFO - 2021-11-30 14:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:53 --> CSRF token verified.
+INFO - 2021-11-30 14:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:54 --> CSRF token verified.
+INFO - 2021-11-30 14:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:58 --> CSRF token verified.
+INFO - 2021-11-30 14:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:59 --> CSRF token verified.
+INFO - 2021-11-30 14:26:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:59 --> CSRF token verified.
+INFO - 2021-11-30 14:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:26:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:26:59 --> CSRF token verified.
+INFO - 2021-11-30 14:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:04 --> CSRF token verified.
+INFO - 2021-11-30 14:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:19 --> CSRF token verified.
+INFO - 2021-11-30 14:27:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:25 --> CSRF token verified.
+INFO - 2021-11-30 14:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:30 --> CSRF token verified.
+INFO - 2021-11-30 14:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:33 --> CSRF token verified.
+INFO - 2021-11-30 14:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:35 --> CSRF token verified.
+INFO - 2021-11-30 14:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:40 --> CSRF token verified.
+INFO - 2021-11-30 14:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:43 --> CSRF token verified.
+INFO - 2021-11-30 14:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:45 --> CSRF token verified.
+INFO - 2021-11-30 14:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:47 --> CSRF token verified.
+INFO - 2021-11-30 14:27:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:47 --> CSRF token verified.
+INFO - 2021-11-30 14:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:48 --> CSRF token verified.
+INFO - 2021-11-30 14:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:52 --> CSRF token verified.
+INFO - 2021-11-30 14:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:27:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:27:58 --> CSRF token verified.
+INFO - 2021-11-30 14:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:03 --> CSRF token verified.
+INFO - 2021-11-30 14:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:08 --> CSRF token verified.
+INFO - 2021-11-30 14:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:13 --> CSRF token verified.
+INFO - 2021-11-30 14:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:18 --> CSRF token verified.
+INFO - 2021-11-30 14:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:23 --> CSRF token verified.
+INFO - 2021-11-30 14:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:29 --> CSRF token verified.
+INFO - 2021-11-30 14:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:34 --> CSRF token verified.
+INFO - 2021-11-30 14:28:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:39 --> CSRF token verified.
+INFO - 2021-11-30 14:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:44 --> CSRF token verified.
+INFO - 2021-11-30 14:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:47 --> CSRF token verified.
+INFO - 2021-11-30 14:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:49 --> CSRF token verified.
+INFO - 2021-11-30 14:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:54 --> CSRF token verified.
+INFO - 2021-11-30 14:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:28:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:28:59 --> CSRF token verified.
+INFO - 2021-11-30 14:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:00 --> CSRF token verified.
+INFO - 2021-11-30 14:29:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:00 --> CSRF token verified.
+INFO - 2021-11-30 14:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:00 --> CSRF token verified.
+INFO - 2021-11-30 14:29:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:05 --> CSRF token verified.
+INFO - 2021-11-30 14:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:18 --> CSRF token verified.
+INFO - 2021-11-30 14:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:21 --> CSRF token verified.
+INFO - 2021-11-30 14:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:26 --> CSRF token verified.
+INFO - 2021-11-30 14:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:31 --> CSRF token verified.
+INFO - 2021-11-30 14:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:36 --> CSRF token verified.
+INFO - 2021-11-30 14:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:41 --> CSRF token verified.
+INFO - 2021-11-30 14:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:46 --> CSRF token verified.
+INFO - 2021-11-30 14:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:50 --> CSRF token verified.
+INFO - 2021-11-30 14:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:52 --> CSRF token verified.
+INFO - 2021-11-30 14:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:29:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:29:57 --> CSRF token verified.
+INFO - 2021-11-30 14:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:00 --> CSRF token verified.
+INFO - 2021-11-30 14:30:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:00 --> CSRF token verified.
+INFO - 2021-11-30 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:00 --> CSRF token verified.
+INFO - 2021-11-30 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:05 --> CSRF token verified.
+INFO - 2021-11-30 14:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:20 --> CSRF token verified.
+INFO - 2021-11-30 14:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:25 --> CSRF token verified.
+INFO - 2021-11-30 14:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:30 --> CSRF token verified.
+INFO - 2021-11-30 14:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:33 --> CSRF token verified.
+INFO - 2021-11-30 14:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:35 --> CSRF token verified.
+INFO - 2021-11-30 14:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:40 --> CSRF token verified.
+INFO - 2021-11-30 14:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:40 --> CSRF token verified.
+INFO - 2021-11-30 14:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:44 --> CSRF token verified.
+INFO - 2021-11-30 14:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:45 --> CSRF token verified.
+INFO - 2021-11-30 14:30:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:47 --> CSRF token verified.
+INFO - 2021-11-30 14:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:51 --> CSRF token verified.
+INFO - 2021-11-30 14:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:30:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:30:56 --> CSRF token verified.
+INFO - 2021-11-30 14:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:00 --> CSRF token verified.
+INFO - 2021-11-30 14:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:01 --> CSRF token verified.
+INFO - 2021-11-30 14:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:06 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:06 --> CSRF token verified.
+INFO - 2021-11-30 14:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:11 --> CSRF token verified.
+INFO - 2021-11-30 14:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:16 --> CSRF token verified.
+INFO - 2021-11-30 14:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:21 --> CSRF token verified.
+INFO - 2021-11-30 14:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:27 --> CSRF token verified.
+INFO - 2021-11-30 14:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:32 --> CSRF token verified.
+INFO - 2021-11-30 14:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:37 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:37 --> CSRF token verified.
+INFO - 2021-11-30 14:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:42 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:42 --> CSRF token verified.
+INFO - 2021-11-30 14:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:44 --> CSRF token verified.
+INFO - 2021-11-30 14:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:47 --> CSRF token verified.
+INFO - 2021-11-30 14:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:53 --> CSRF token verified.
+INFO - 2021-11-30 14:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:31:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:31:58 --> CSRF token verified.
+INFO - 2021-11-30 14:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:01 --> CSRF token verified.
+INFO - 2021-11-30 14:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:03 --> CSRF token verified.
+INFO - 2021-11-30 14:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:08 --> CSRF token verified.
+INFO - 2021-11-30 14:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:13 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:13 --> CSRF token verified.
+INFO - 2021-11-30 14:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:18 --> CSRF token verified.
+INFO - 2021-11-30 14:32:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:23 --> CSRF token verified.
+INFO - 2021-11-30 14:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:29 --> CSRF token verified.
+INFO - 2021-11-30 14:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:34 --> CSRF token verified.
+INFO - 2021-11-30 14:32:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:39 --> CSRF token verified.
+INFO - 2021-11-30 14:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:44 --> CSRF token verified.
+INFO - 2021-11-30 14:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:49 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:49 --> CSRF token verified.
+INFO - 2021-11-30 14:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:54 --> CSRF token verified.
+INFO - 2021-11-30 14:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:32:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:32:59 --> CSRF token verified.
+INFO - 2021-11-30 14:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:01 --> CSRF token verified.
+INFO - 2021-11-30 14:33:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:05 --> CSRF token verified.
+INFO - 2021-11-30 14:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:10 --> CSRF token verified.
+INFO - 2021-11-30 14:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:15 --> CSRF token verified.
+INFO - 2021-11-30 14:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:20 --> CSRF token verified.
+INFO - 2021-11-30 14:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:25 --> CSRF token verified.
+INFO - 2021-11-30 14:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:30 --> CSRF token verified.
+INFO - 2021-11-30 14:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:36 --> CSRF token verified.
+INFO - 2021-11-30 14:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:39 --> CSRF token verified.
+INFO - 2021-11-30 14:33:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:39 --> CSRF token verified.
+INFO - 2021-11-30 14:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:39 --> CSRF token verified.
+INFO - 2021-11-30 14:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:33:44 --> CSRF cookie sent.
+INFO - 2021-11-30 14:33:44 --> CSRF token verified.
+INFO - 2021-11-30 14:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:00 --> CSRF token verified.
+INFO - 2021-11-30 14:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:05 --> CSRF token verified.
+INFO - 2021-11-30 14:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:10 --> CSRF token verified.
+INFO - 2021-11-30 14:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:12 --> CSRF token verified.
+INFO - 2021-11-30 14:34:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:15 --> CSRF token verified.
+INFO - 2021-11-30 14:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:16 --> CSRF token verified.
+INFO - 2021-11-30 14:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:20 --> CSRF token verified.
+INFO - 2021-11-30 14:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:25 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:25 --> CSRF token verified.
+INFO - 2021-11-30 14:34:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:30 --> CSRF token verified.
+INFO - 2021-11-30 14:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:36 --> CSRF token verified.
+INFO - 2021-11-30 14:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:39 --> CSRF token verified.
+INFO - 2021-11-30 14:34:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:41 --> CSRF token verified.
+INFO - 2021-11-30 14:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:46 --> CSRF token verified.
+INFO - 2021-11-30 14:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:51 --> CSRF token verified.
+INFO - 2021-11-30 14:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:34:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:34:56 --> CSRF token verified.
+INFO - 2021-11-30 14:34:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:01 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:01 --> CSRF token verified.
+INFO - 2021-11-30 14:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:07 --> CSRF token verified.
+INFO - 2021-11-30 14:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:12 --> CSRF token verified.
+INFO - 2021-11-30 14:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:17 --> CSRF token verified.
+INFO - 2021-11-30 14:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:22 --> CSRF token verified.
+INFO - 2021-11-30 14:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:27 --> CSRF token verified.
+INFO - 2021-11-30 14:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:32 --> CSRF token verified.
+INFO - 2021-11-30 14:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:38 --> CSRF token verified.
+INFO - 2021-11-30 14:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:39 --> CSRF token verified.
+INFO - 2021-11-30 14:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:43 --> CSRF token verified.
+INFO - 2021-11-30 14:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:48 --> CSRF token verified.
+INFO - 2021-11-30 14:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:53 --> CSRF token verified.
+INFO - 2021-11-30 14:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:35:58 --> CSRF cookie sent.
+INFO - 2021-11-30 14:35:58 --> CSRF token verified.
+INFO - 2021-11-30 14:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:03 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:03 --> CSRF token verified.
+INFO - 2021-11-30 14:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:08 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:08 --> CSRF token verified.
+INFO - 2021-11-30 14:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:14 --> CSRF token verified.
+INFO - 2021-11-30 14:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:19 --> CSRF token verified.
+INFO - 2021-11-30 14:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:24 --> CSRF token verified.
+INFO - 2021-11-30 14:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:29 --> CSRF token verified.
+INFO - 2021-11-30 14:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:34 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:34 --> CSRF token verified.
+INFO - 2021-11-30 14:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:39 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:39 --> CSRF token verified.
+INFO - 2021-11-30 14:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:40 --> CSRF token verified.
+INFO - 2021-11-30 14:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:45 --> CSRF token verified.
+INFO - 2021-11-30 14:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:50 --> CSRF token verified.
+INFO - 2021-11-30 14:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:36:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:36:55 --> CSRF token verified.
+INFO - 2021-11-30 14:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:00 --> CSRF token verified.
+INFO - 2021-11-30 14:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:05 --> CSRF token verified.
+INFO - 2021-11-30 14:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:10 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:10 --> CSRF token verified.
+INFO - 2021-11-30 14:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:15 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:15 --> CSRF token verified.
+INFO - 2021-11-30 14:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:20 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:20 --> CSRF token verified.
+INFO - 2021-11-30 14:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:26 --> CSRF token verified.
+INFO - 2021-11-30 14:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:31 --> CSRF token verified.
+INFO - 2021-11-30 14:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:36 --> CSRF token verified.
+INFO - 2021-11-30 14:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:40 --> CSRF token verified.
+INFO - 2021-11-30 14:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:41 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:41 --> CSRF token verified.
+INFO - 2021-11-30 14:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:46 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:46 --> CSRF token verified.
+INFO - 2021-11-30 14:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:51 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:51 --> CSRF token verified.
+INFO - 2021-11-30 14:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:37:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:37:57 --> CSRF token verified.
+INFO - 2021-11-30 14:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:02 --> CSRF token verified.
+INFO - 2021-11-30 14:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:07 --> CSRF token verified.
+INFO - 2021-11-30 14:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:12 --> CSRF token verified.
+INFO - 2021-11-30 14:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:17 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:17 --> CSRF token verified.
+INFO - 2021-11-30 14:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:22 --> CSRF token verified.
+INFO - 2021-11-30 14:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:28 --> CSRF token verified.
+INFO - 2021-11-30 14:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:33 --> CSRF token verified.
+INFO - 2021-11-30 14:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:38 --> CSRF token verified.
+INFO - 2021-11-30 14:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:40 --> CSRF token verified.
+INFO - 2021-11-30 14:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:43 --> CSRF token verified.
+INFO - 2021-11-30 14:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:48 --> CSRF token verified.
+INFO - 2021-11-30 14:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:53 --> CSRF token verified.
+INFO - 2021-11-30 14:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:38:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:38:59 --> CSRF token verified.
+INFO - 2021-11-30 14:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:04 --> CSRF token verified.
+INFO - 2021-11-30 14:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:09 --> CSRF token verified.
+INFO - 2021-11-30 14:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:14 --> CSRF token verified.
+INFO - 2021-11-30 14:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:19 --> CSRF token verified.
+INFO - 2021-11-30 14:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:24 --> CSRF token verified.
+INFO - 2021-11-30 14:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:29 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:29 --> CSRF token verified.
+INFO - 2021-11-30 14:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:35 --> CSRF token verified.
+INFO - 2021-11-30 14:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:40 --> CSRF token verified.
+INFO - 2021-11-30 14:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:40 --> CSRF token verified.
+INFO - 2021-11-30 14:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:45 --> CSRF token verified.
+INFO - 2021-11-30 14:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:50 --> CSRF token verified.
+INFO - 2021-11-30 14:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:39:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:39:55 --> CSRF token verified.
+INFO - 2021-11-30 14:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:00 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:00 --> CSRF token verified.
+INFO - 2021-11-30 14:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:05 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:05 --> CSRF token verified.
+INFO - 2021-11-30 14:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:11 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:11 --> CSRF token verified.
+INFO - 2021-11-30 14:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:16 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:16 --> CSRF token verified.
+INFO - 2021-11-30 14:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:21 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:21 --> CSRF token verified.
+INFO - 2021-11-30 14:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:26 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:26 --> CSRF token verified.
+INFO - 2021-11-30 14:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:31 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:31 --> CSRF token verified.
+INFO - 2021-11-30 14:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:36 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:36 --> CSRF token verified.
+INFO - 2021-11-30 14:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:40 --> CSRF token verified.
+INFO - 2021-11-30 14:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:42 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:42 --> CSRF token verified.
+INFO - 2021-11-30 14:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:47 --> CSRF token verified.
+INFO - 2021-11-30 14:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:52 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:52 --> CSRF token verified.
+INFO - 2021-11-30 14:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:40:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:40:57 --> CSRF token verified.
+INFO - 2021-11-30 14:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:02 --> CSRF token verified.
+INFO - 2021-11-30 14:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:07 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:07 --> CSRF token verified.
+INFO - 2021-11-30 14:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:12 --> CSRF token verified.
+INFO - 2021-11-30 14:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:18 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:18 --> CSRF token verified.
+INFO - 2021-11-30 14:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:23 --> CSRF token verified.
+INFO - 2021-11-30 14:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:28 --> CSRF token verified.
+INFO - 2021-11-30 14:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:33 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:33 --> CSRF token verified.
+INFO - 2021-11-30 14:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:38 --> CSRF token verified.
+INFO - 2021-11-30 14:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:40 --> CSRF token verified.
+INFO - 2021-11-30 14:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:43 --> CSRF token verified.
+INFO - 2021-11-30 14:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:48 --> CSRF token verified.
+INFO - 2021-11-30 14:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:53 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:53 --> CSRF token verified.
+INFO - 2021-11-30 14:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:41:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:41:59 --> CSRF token verified.
+INFO - 2021-11-30 14:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:04 --> CSRF token verified.
+INFO - 2021-11-30 14:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:09 --> CSRF token verified.
+INFO - 2021-11-30 14:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:14 --> CSRF token verified.
+INFO - 2021-11-30 14:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:19 --> CSRF token verified.
+INFO - 2021-11-30 14:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:22 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:23 --> CSRF token verified.
+INFO - 2021-11-30 14:42:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:23 --> CSRF token verified.
+INFO - 2021-11-30 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:23 --> CSRF token verified.
+INFO - 2021-11-30 14:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:28 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:28 --> CSRF token verified.
+INFO - 2021-11-30 14:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:43 --> CSRF token verified.
+INFO - 2021-11-30 14:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:48 --> CSRF token verified.
+INFO - 2021-11-30 14:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:54 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:54 --> CSRF token verified.
+INFO - 2021-11-30 14:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:42:59 --> CSRF cookie sent.
+INFO - 2021-11-30 14:42:59 --> CSRF token verified.
+INFO - 2021-11-30 14:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:04 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:04 --> CSRF token verified.
+INFO - 2021-11-30 14:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:09 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:09 --> CSRF token verified.
+INFO - 2021-11-30 14:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:14 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:14 --> CSRF token verified.
+INFO - 2021-11-30 14:43:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:19 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:19 --> CSRF token verified.
+INFO - 2021-11-30 14:43:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:23 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:23 --> CSRF token verified.
+INFO - 2021-11-30 14:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:24 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:24 --> CSRF token verified.
+INFO - 2021-11-30 14:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:30 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:30 --> CSRF token verified.
+INFO - 2021-11-30 14:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:35 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:35 --> CSRF token verified.
+INFO - 2021-11-30 14:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:40 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:40 --> CSRF token verified.
+INFO - 2021-11-30 14:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:45 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:45 --> CSRF token verified.
+INFO - 2021-11-30 14:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:50 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:50 --> CSRF token verified.
+INFO - 2021-11-30 14:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:55 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:55 --> CSRF token verified.
+INFO - 2021-11-30 14:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:56 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:57 --> CSRF token verified.
+INFO - 2021-11-30 14:43:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:57 --> CSRF token verified.
+INFO - 2021-11-30 14:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:57 --> CSRF cookie sent.
+INFO - 2021-11-30 14:43:57 --> CSRF token verified.
+INFO - 2021-11-30 14:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:43:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:44:02 --> CSRF cookie sent.
+INFO - 2021-11-30 14:44:02 --> CSRF token verified.
+INFO - 2021-11-30 14:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:12 --> CSRF token verified.
+INFO - 2021-11-30 14:48:12 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:12 --> CSRF token verified.
+INFO - 2021-11-30 14:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:27 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:27 --> CSRF token verified.
+INFO - 2021-11-30 14:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:32 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:32 --> CSRF token verified.
+INFO - 2021-11-30 14:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:38 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:38 --> CSRF token verified.
+INFO - 2021-11-30 14:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:43 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:43 --> CSRF token verified.
+INFO - 2021-11-30 14:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:47 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:48 --> CSRF token verified.
+INFO - 2021-11-30 14:48:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:48 --> CSRF token verified.
+INFO - 2021-11-30 14:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-11-30 14:48:48 --> CSRF cookie sent.
+INFO - 2021-11-30 14:48:48 --> CSRF token verified.
+INFO - 2021-11-30 14:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+ERROR - 2021-11-30 14:48:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 0,3' at line 33
+CRITICAL - 2021-11-30 14:48:49 --> Call to a member function getResult() on bool
+#0 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(928): App\Controllers\Leads->list_data()
+#1 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#4 {main}

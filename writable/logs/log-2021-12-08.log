@@ -1,0 +1,20 @@
+CRITICAL - 2021-12-08 09:25:03 --> The action you requested is not allowed.
+#0 C:\wamp64\www\yocontigo\grupodaxi\system\Security\Security.php(240): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 C:\wamp64\www\yocontigo\grupodaxi\system\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\Filters\Filters.php(181): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('notifications/c...', 'before')
+#4 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-08 09:25:03 --> The action you requested is not allowed.
+#0 C:\wamp64\www\yocontigo\grupodaxi\system\Security\Security.php(240): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 C:\wamp64\www\yocontigo\grupodaxi\system\Filters\CSRF.php(57): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+#2 C:\wamp64\www\yocontigo\grupodaxi\system\Filters\Filters.php(181): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(407): CodeIgniter\Filters\Filters->run('messages/get_no...', 'before')
+#4 C:\wamp64\www\yocontigo\grupodaxi\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\yocontigo\grupodaxi\index.php(61): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2021-12-08 11:31:26 --> CSRF cookie sent.
+INFO - 2021-12-08 11:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-12-08 11:31:27 --> CSRF cookie sent.
+INFO - 2021-12-08 11:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.

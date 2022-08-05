@@ -1,0 +1,4 @@
+INFO - 2021-12-30 17:26:53 --> CSRF cookie sent.
+INFO - 2021-12-30 17:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2021-12-30 17:26:54 --> CSRF cookie sent.
+INFO - 2021-12-30 17:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
